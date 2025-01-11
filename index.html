@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="title">Моє Резюме</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/i18next@21.6.0/dist/umd/i18next.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+    
+</head>
+<body>
+    <div class="content">
+        <header>
+            <div class="language-switch">
+                <button onclick="changeLanguage('uk')">UA</button>
+                <button onclick="changeLanguage('ru')">RU</button>
+                <button onclick="changeLanguage('en')">EN</button>
+            </div>
+            <h1 data-i18n="title" ">Моє Резюме</h1>
+        </header>
+
+        <main>
+            <div class="resume-container">
+                <section class="left-column">
+                    <div class="profile">
+                        <img src="my_photo.png" alt="Profile Picture" class="profile-img">
+                        <h2 data-i18n="personal-info">Особисті Дані</h2>
+                        <p class="name"><strong data-i18n="name">ПІБ</strong> Romaniuk Yaroslav  leksandrovych</p>
+                    </div>
+
+                    <h3 data-i18n="skills-title">Стек:</h3>
+                    <ul class="skills-list">
+                        <li><i class="fab fa-html5"></i> HTML</li>
+                        <li><i class="fab fa-css3-alt"></i> CSS</li>
+                        <li><i class="fab fa-js-square"></i> JavaScript</li>
+                        <li><i class="fab fa-node-js"></i> Node.js</li>
+                        <li><i class="fab fa-react"></i> React</li>
+                        <li><i class="fab fa-python"></i> Python</li>
+                        <li><i class="fab fa-cuttlefish"></i> C++</li>
+                        <li><i class="fab fa-microsoft"></i> C#</li>
+                        <li><i class="fab fa-microsoft"></i> ASP.NET MVC</li> 
+                        <li><i class="fas fa-database"></i> MySQL</li>         
+                    </ul>
+
+                    <h3 data-i18n="contacts-title">Контакти:</h3>
+                    <p><strong data-i18n="phone">Телефон:</strong> 068-427-9550</p>
+                    <p><strong data-i18n="email">Email:</strong> yaroslavromaniuk025@gmail.com</p>
+
+                    <div class="social-links">
+                        <a href="https://www.linkedin.com/in/yaroslav-romaniuk-b5ba812b9/" class="social-icon"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://github.com/" class="social-icon"><i class="fab fa-github"></i></a>
+                    </div>
+                </section>
+
+                <section class="right-column">
+                    <h3 data-i18n="experience-details">Більш детально про прикладний досвід:</h3>
+                    <ul class="experience-list">
+                        <li data-i18n="experience1">Розробка вебсайтів використовуючи стандартні HTML, CSS, JS | PHP.</li>
+                        <li data-i18n="experience2">Розробка вебсайтів з фреймворками: React, ASP.NET MVC.</li>
+                        <li data-i18n="experience3">Досвід у створенні консольних додатків C++ | C# | Python.</li>
+                        <li data-i18n="experience4">Створення системи CRUD на вебсайті, використовуючи БД MySQL.</li>
+                        <li data-i18n="experience5">Навички роботи з MySQL (підключення до проєкту, зв'язки).</li>
+                        <li data-i18n="experience6">Створення парсерів з GUI, на Python.</li>
+                        <li data-i18n="experience7">Досвід у створенні ігор на Godot Engine (Python).</li>
+                        <li data-i18n="experience8">Навички роботи у команді з системою контролю версій Git.</li>
+                        <li data-i18n="experience9">Розуміння принципів розробки в команді по методологіям: Kanban, Agile, Scrum і тд</li>
+                    </ul>
+                    <h3 data-i18n="education-title">Освіта:</h3>
+                    <div class="card">
+                        <h4 data-i18n="education-status">Студент 2 курсу</h4>
+                        <p data-i18n="university">Державний університет інформаційно-комунікаційних технологій (ДУІКТ)</p>
+                        <p data-i18n="specialty">Спеціальність: 121 Інженерія Програмного забезпечення</p>
+                    </div>
+                </section>
+            </div>
+        </main>
+
+        <footer>
+            <div class="footer-content">
+                <p>&copy; 2025 Романюк Ярослав. Всі права захищені.</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
