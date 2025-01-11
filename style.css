@@ -74,8 +74,9 @@ h1 {
 }
 
 .name {
-    font-size: 20px;
+    font-size: 35px;
 }
+
 main {
     flex-grow: 1;
     display: flex;
@@ -203,6 +204,10 @@ footer .footer-content {
     .language-switch button {
         margin: 7.5px 3px 0px;
         padding: 8px 15px;
+    }
+
+    .name {
+        font-size: 25px;
     }
 
     h1 {
