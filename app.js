@@ -24,7 +24,7 @@ i18next.init({
                 "experience9": "Розуміння принципів розробки в команді по методологіям: Kanban, Agile, Scrum і тд",
                 "education-status": "Студент 2 курсу",
                 "university": "Державний університет інформаційно-комунікаційних технологій (ДУІКТ)",
-                "specialty": "Спеціальність: 121 Інженерія Програмного забезпечення"
+                "specialty": "Спеціальність: 121 Інженерія Програмного забезпечення. Освітня програма: Технології цифрового розвитку"
             }
         },
         en: {
@@ -50,7 +50,7 @@ i18next.init({
                 "experience9": "Understanding team development principles with methodologies: Kanban, Agile, Scrum, etc.",
                 "education-status": "2nd Year Student",
                 "university": "State University of Information and Communication Technologies (DUICT)",
-                "specialty": "Specialty: 121 Software Engineering"
+                "specialty": "Specialty: 121 Software Engineer. Study program: Digital Development Technologies  "
             }
         },
         ru: {
@@ -76,7 +76,7 @@ i18next.init({
                 "experience9": "Понимание принципов разработки в команде по методологиям: Kanban, Agile, Scrum и тд",
                 "education-status": "Студент 2 курса",
                 "university": "Государственный университет информационно-коммуникационных технологий (ДУИКТ)",
-                "specialty": "Специальность: 121 Инженерия Программного обеспечения"
+                "specialty": "Специальность: 121 Инженерия Программного обеспечения. Програма обучения: Технологии Цифрового Развития"
             }
         }
     }
