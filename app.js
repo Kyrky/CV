@@ -28,6 +28,7 @@ i18next.init({
                 "characteristics-text": "Прямолінійність, наполегливість, добре працюю і в команді, і сам, дисциплінованість і креативність",
                 "hobbies-title": "Хоббі:",
                 "hobbies-text": "Займаюсь спортом (тренажерний зал), читаю багато книжок (в основному фентезі або фантастика), іноді граю в комп'ютерні ігри, саморозвиток (курси, книги).",
+                "copyright" : "2025 Романюк Ярослав. Всі права захищені.",
             }
         },
         en: {
@@ -57,7 +58,7 @@ i18next.init({
                 "characteristics-text": "Straightforwardness, perseverance, I work well both in a team and independently, Discipline and Creativity",
                 "hobbies-title": "Hobbies:",
                 "hobbies-text": "I engage in sports (gym), I read a lot of books (mainly fantasy or sci-fi), sometimes play computer games, self-development (courses, books).",
-              
+                "copyright" : "2025  Romaniuk Yaroslav. All rights deserved.",
             }
         },
         ru: {
@@ -87,7 +88,7 @@ i18next.init({
                 "characteristics-text": "Прямолинейность, настойчивость, хорошо работаю как в команде, так и самостоятельно, дисциплинованость и креативность.",
                 "hobbies-title": "Хобби:",
                 "hobbies-text": "Занимаюсь спортом (тренажерный зал), читаю много книг (в основном фэнтези или фантастика), иногда играю в компьютерные игры, саморазвитие (курсы, книги).",
-               
+                "copyright" : "2025 Романюк Ярослав. Всі права защищены",
             }
         }
     }
