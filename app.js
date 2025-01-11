@@ -3,9 +3,9 @@ i18next.init({
     resources: {
         uk: {
             translation: {
-                "title": "Моє Резюме",
+                "title": "Резюме",
                 "personal-info": "Особисті Дані",
-                "name": "ПІБ:",
+                "name": "ПІБ: Романюк Ярослав",
                 "skills-title": "Стек:",
                 "experience-title": "Досвід:",
                 "experience-details": "Більш детально про прикладний досвід:",
@@ -29,10 +29,10 @@ i18next.init({
         },
         en: {
             translation: {
-                "title": "My Resume",
+                "title": "CV",
                 "personal-info": "Personal Info",
-                "name": "Full Name:",
-                "skills-title": "Skills:",
+                "name": "Romaniuk Yaroslav ",
+                "skills-title": "Steck:",
                 "experience-title": "Experience:",
                 "experience-details": "More detailed experience:",
                 "education-title": "Education:",
@@ -55,10 +55,10 @@ i18next.init({
         },
         ru: {
             translation: {
-                "title": "Мое Резюме",
+                "title": "Резюме",
                 "personal-info": "Личные Данные",
-                "name": "ФИО:",
-                "skills-title": "Навыки:",
+                "name": "ФИО: Романюк Ярослав",
+                "skills-title": "Стек:",
                 "experience-title": "Опыт:",
                 "experience-details": "Более подробный опыт:",
                 "education-title": "Образование:",
