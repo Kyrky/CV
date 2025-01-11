@@ -55,7 +55,7 @@ i18next.init({
                 "education-status": "2nd Year Student",
                 "university": "State University of Information and Communication Technologies (DUICT)",
                 "specialty": "Specialty: 121 Software Engineer. Study program: Digital Development Technologies  ",
-                "characteristics-title": "Personal Characteristics:",
+                "characteristics-title": "Personality:",
                 "characteristics-text": "Straightforwardness, perseverance, I work well both in a team and independently, honesty.",
                 "hobbies-title": "Hobbies:",
                 "hobbies-text": "I engage in sports (gym), I read a lot of books (mainly fantasy or sci-fi), sometimes play computer games, self-development (courses, books).",
