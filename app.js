@@ -25,8 +25,8 @@ i18next.init({
                 "education-status": "Студент 2 курсу",
                 "university": "Державний університет інформаційно-комунікаційних технологій (ДУІКТ)",
                 "specialty": "Спеціальність: 121 Інженерія Програмного забезпечення. Освітня програма: Технології цифрового розвитку",
-                "characteristics-title": "Риси характеру:",
-                "characteristics-text": "Прямолінійність, наполегливість, добре працюю і в команді, і сам, чесність.",
+                "characteristics-title": "Особистість:",
+                "characteristics-text": "Прямолінійність, наполегливість, добре працюю і в команді, і сам, дисциплінованість і креативність",
                 "hobbies-title": "Хоббі:",
                 "hobbies-text": "Займаюсь спортом (тренажерний зал), читаю багато книжок (в основному фентезі або фантастика), іноді граю в комп'ютерні ігри, саморозвиток (курси, книги).",
             }
@@ -56,7 +56,7 @@ i18next.init({
                 "university": "State University of Information and Communication Technologies (DUICT)",
                 "specialty": "Specialty: 121 Software Engineer. Study program: Digital Development Technologies  ",
                 "characteristics-title": "Personality:",
-                "characteristics-text": "Straightforwardness, perseverance, I work well both in a team and independently, honesty.",
+                "characteristics-text": "Straightforwardness, perseverance, I work well both in a team and independently, Discipline and Creativity",
                 "hobbies-title": "Hobbies:",
                 "hobbies-text": "I engage in sports (gym), I read a lot of books (mainly fantasy or sci-fi), sometimes play computer games, self-development (courses, books).",
               
@@ -87,7 +87,7 @@ i18next.init({
                 "university": "Государственный университет информационно-коммуникационных технологий (ДУИКТ)",
                 "specialty": "Специальность: 121 Инженерия Программного обеспечения. Програма обучения: Технологии Цифрового Развития",
                 "characteristics-title": "Личные качества:",
-                "characteristics-text": "Прямолинейность, настойчивость, хорошо работаю как в команде, так и самостоятельно, честность.",
+                "characteristics-text": "Прямолинейность, настойчивость, хорошо работаю как в команде, так и самостоятельно, дисциплинованость и креативность.",
                 "hobbies-title": "Хобби:",
                 "hobbies-text": "Занимаюсь спортом (тренажерный зал), читаю много книг (в основном фэнтези или фантастика), иногда играю в компьютерные игры, саморазвитие (курсы, книги).",
                
