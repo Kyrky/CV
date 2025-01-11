@@ -111,8 +111,8 @@ main {
 }
 
 .profile-img {
-    width: 180px;
-    height: 180px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 20px;
@@ -218,8 +218,8 @@ footer .footer-content {
     }
 
     .profile-img {
-        width: 120px;
-        height: 120px;
+        width: 220px;
+        height: 220px;
         margin-bottom: 15px;
     }
 
@@ -256,7 +256,7 @@ footer .footer-content {
     }
 
     .profile-img {
-        width: 200px;
+        width: 240px;
         height: 250px;
        
     }
