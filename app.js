@@ -64,10 +64,10 @@ i18next.init({
         ru: {
             translation: {
                 "title": "Резюме",
-                "name": "ФИО: Романюк Ярослав",
+                "name": "Романюк Ярослав",
                 "skills-title": "Стек:",
                 "experience-title": "Опыт:",
-                "experience-details": "Более подробный опыт:",
+                "experience-details": "Более подробный о опыте:",
                 "education-title": "Образование:",
                 "contacts-title": "Контакты:",
                 "phone": "Телефон",
