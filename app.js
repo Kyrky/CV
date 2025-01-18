@@ -1,5 +1,5 @@
 i18next.init({
-    lng: 'uk', 
+    lng: 'en', 
     resources: {
         uk: {
             translation: {
