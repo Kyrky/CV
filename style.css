@@ -81,7 +81,7 @@ main {
     display: flex;
     justify-content: center;
     padding: 40px;
-    position: relative; /* Добавляем позиционирование */
+    position: relative; 
     z-index: 1;
 }
 
@@ -94,8 +94,8 @@ main::before {
     height: 100%;
     background-image: url(bg.jpg);
     background-size: cover;
-    filter: blur(5px); /* Размытие только для фона */
-    z-index: -1; /* Помещаем фон позади содержимого */
+    filter: blur(5px); 
+    z-index: -1;
 }
 
 
